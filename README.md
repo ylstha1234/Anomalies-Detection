@@ -1,10 +1,10 @@
-			Anomalies Detection in API-logs Using Spark
+Anomalies Detection in API-logs Using Spark
 Overview
-	This project focuses on analyzing Apache Access logs of API endpoints using Spark to detect anomalies. It aims to identify unusual patterns or behaviors in the log data by analyzing response codes, traffic, and content size statistics.
+This project focuses on analyzing Apache Access logs of API endpoints using Spark to detect anomalies. It aims to identify unusual patterns or behaviors in the log data by analyzing response codes, traffic, and content size statistics.
 Introduction
-	Anomalies Detection in API Logs using Spark is a project focused on analyzing Apache Access logs of API endpoints to detect unusual patterns or behaviors. Leveraging Apache Spark, the project provides insights into response codes, traffic distribution, and content size statistics. It enables the identification of potential security threats and performance issues in web services.
+Anomalies Detection in API Logs using Spark is a project focused on analyzing Apache Access logs of API endpoints to detect unusual patterns or behaviors. Leveraging Apache Spark, the project provides insights into response codes, traffic distribution, and content size statistics. It enables the identification of potential security threats and performance issues in web services.
 Project Structure
-	The project includes the following contents:
+The project includes the following contents:
 •	Pyspark.ipynb: It contains the PySpark code for analyzing Apache Access logs and detecting anomalies.
 •	Semi_structured_logs.parquet: It is semi-structured Parquet log data used for testing and analysis.
 •	README.md: It is the project documentation providing instructions for usage, file structure, and requirements.
